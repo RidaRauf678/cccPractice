@@ -62,7 +62,7 @@ for day in range(n):
 print(k)
 '''
 
-#S2 2015 - incomplete
+#S2 2015
 '''
 j = int(input())
 a = int(input())
